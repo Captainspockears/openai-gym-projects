@@ -1,4 +1,4 @@
-# openaigym-Projects
+# openai-gym Projects
 
 So I decided to check out OpenAI's gym to train agents to play games! I want to learn what it takes to teach an AI and hopefully get a foundation inorder to replicate the same in real life.
 
